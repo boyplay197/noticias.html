@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
     <title>Minha Primeira Página</title>
 </head>
 <body>
